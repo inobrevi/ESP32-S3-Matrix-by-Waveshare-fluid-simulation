@@ -1,6 +1,9 @@
 # ESP32-S3-Matrix by Waveshare fluid simulation
  port of fluid simulation for ESP32-S3-Matrix by Waveshare
 
+# Compliations notes:
+- use SensorLib 2.1 as newers verions don't compile when using QMI8658
+
 # Backstory
 I was inspired by [Fluid Simulation Pendant](https://www.youtube.com/watch?v=jis1MC5Tm8k) but I was ~~too lazy~~ under equipped to create fully custom version.
 
