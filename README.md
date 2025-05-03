@@ -23,4 +23,8 @@ If you just want to play with already working code check the repository.
 
 I also put original in a backup folder, in case someone would remove it from original place.
 
+![photo](photo.jpeg)
+
+
+# checkout video in action :)
 ![demo_video](demo_video.mp4)
