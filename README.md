@@ -7,7 +7,7 @@
 # Backstory
 I was inspired by [Fluid Simulation Pendant](https://www.youtube.com/watch?v=jis1MC5Tm8k) but I was ~~too lazy~~ under equipped to create fully custom version.
 
-I looked on AliExpress and I found this [Waveshare ESP32-S3-Matrix](https://www.waveshare.com/esp32-s3-matrix.htm).
+I looked on AliExpress and I found this [Waveshare ESP32-S3-Matrix](https://www.waveshare.com/wiki/ESP32-S3-Matrix).
 
 That was perfect for testing so after getting it I was able to play with playing animations and auto rotating the "display", but fluid simulation was way over my understanding.
 
