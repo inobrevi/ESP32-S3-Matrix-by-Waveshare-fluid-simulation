@@ -10,7 +10,7 @@ That was perfect for testing so after getting it I was able to play with playing
 
 [Also made it battery powered and made a simple test case for it.]
 
-OP didn't provide the code, but one day I got great idea: someone else must have done this before!
+OP didn't provide the code, but one day I've got great idea: someone else must have done this before!
 
 So I borrowed the code from [ESP32 Fluid simulation on 16x16 Led Matrix](https://hackaday.io/project/202470-esp32-fluid-simulation-on-16x16-led-matrix) and managed to adapt it to hardware of Waveshare Matrix: different MPU, LED matrix pattern and size of output display (easiest change).
 
@@ -19,6 +19,5 @@ I'm also going to adapt the color version, looks fun.
 If you just want to play with already working code check the repository.
 
 I also put original in a backup folder, in case someone would remove it from original place.
-
 
 ![demo_video](demo_video.mp4)
